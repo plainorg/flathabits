@@ -1,0 +1,7 @@
+* Plain Org [[http://flathabits.com][flathabits.com]]
+
+Thank you for using Flat Habits. Ran into a bug? Got feature requests? Please file them or comment on existing ones.
+
+** Filing bugs and feature requests
+
+Please file bugs or feature requests under GitHub [[https://github.com/plainorg/flathabits/issues][issues]], using the =bug= and =enhancement= flags.
